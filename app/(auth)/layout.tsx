@@ -10,6 +10,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             width={224}
             height={224}
             alt="logo"
+            className="h-auto w-auto"
           />
           <div className="space-y-5 text-white ">
             <h1 className="h1">Manage your files the best way.</h1>

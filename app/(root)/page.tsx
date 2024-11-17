@@ -4,6 +4,4 @@ export default function Home() {
       <h1 className="text-brand h1">awdad</h1>
     </div>
   )
-
-  
 }
